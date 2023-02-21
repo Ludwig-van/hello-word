@@ -1,2 +1,2 @@
 # hello-word
-This is the a repository, first creating
+This is a repository, first creating
